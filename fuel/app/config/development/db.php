@@ -24,7 +24,7 @@ return array(
 		'connection' => array(
 			'dsn'      => 'mysql:host=localhost;dbname=fuel_dev',
 			'username' => 'root',
-			'password' => 'rounded-bottom',
+			'password' => '36a5Fs487b0',
 		),
 	),
 );
