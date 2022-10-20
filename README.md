@@ -18,6 +18,12 @@ FuelPHP is fully PHP 7 compatible.
 
 For more detailed information, see the [development wiki](https://github.com/fuelphp/fuelphp/wiki).
 
+## Installation
+
+- Склонировать проект: `git clone git@github.com:SedovSG/testFuelPHP.git`
+- Создать вручную БД `fuel_dev`
+- Выполнить миграции: `php oil refine migrate`
+
 ## Development Team
 
 * Harro Verton - Project Manager, Developer ([http://wanwizard.eu/](http://wanwizard.eu/))
