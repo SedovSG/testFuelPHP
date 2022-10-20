@@ -11,4 +11,6 @@
  * @link       https://fuelphp.com
  */
 
-return array();
+return array(
+  '_root_' => 'index'
+);
