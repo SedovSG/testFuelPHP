@@ -42,16 +42,11 @@ class Model_Admin_News extends \Orm\Model
 
 	protected static $_primary_key = array('id');
 
-	protected static $_has_many = array(
-	);
+	protected static $_has_many = array();
 
-	protected static $_many_many = array(
-	);
+	protected static $_many_many = array();
 
-	protected static $_has_one = array(
-	);
+	protected static $_has_one = array();
 
-	protected static $_belongs_to = array(
-	);
-
+	protected static $_belongs_to = array();
 }

@@ -1,0 +1,2303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"span"
+			],
+			[
+				"D",
+				"Database_Exception"
+			],
+			[
+				"set",
+				"setData"
+			],
+			[
+				"var",
+				"variable〔variable〕"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"for",
+				"formatted"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"va",
+				"variable"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Qr",
+				"QrCodeData"
+			],
+			[
+				"qr",
+				"qrcode"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"numV",
+				"numVoters"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"decla",
+				"declare"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"useQrcodeStore",
+				"import { useQrcodeStore$1 } from '@/stores/qrcode';"
+			],
+			[
+				"def",
+				"defineStore"
+			],
+			[
+				"Q",
+				"QrCodeData"
+			],
+			[
+				"defa",
+				"default"
+			],
+			[
+				"st",
+				"stores"
+			],
+			[
+				"resol",
+				"resolve"
+			],
+			[
+				"pi",
+				"pinia"
+			],
+			[
+				"No",
+				"\"NodeNext\""
+			],
+			[
+				"vo",
+				"votingInfo"
+			],
+			[
+				"jus",
+				"justify-content-end"
+			],
+			[
+				"избират",
+				"избирательных"
+			],
+			[
+				"cente",
+				"align-content-center"
+			],
+			[
+				"v-odel",
+				"v-model"
+			],
+			[
+				"v-",
+				"v-col"
+			],
+			[
+				"v-co",
+				"v-container"
+			],
+			[
+				"App",
+				"AppNavigationList.vue"
+			],
+			[
+				"v",
+				"<vue> with default.vue ✌"
+			],
+			[
+				"num",
+				"number〔variable〕"
+			],
+			[
+				"v-f",
+				"v-for"
+			],
+			[
+				"use",
+				"use"
+			],
+			[
+				"switch",
+				"switch"
+			],
+			[
+				"alit",
+				"align-items"
+			],
+			[
+				"fir",
+				":first-of-type"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"__co",
+				"__construct"
+			],
+			[
+				"setS",
+				"setSort"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"is",
+				"isEditor"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"rea",
+				"readonly"
+			],
+			[
+				"isRe",
+				"isReadOnly"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"he",
+				"helpers"
+			],
+			[
+				"Sta",
+				"ResponseStatusOK"
+			],
+			[
+				"resul",
+				"result.Code"
+			],
+			[
+				"mode",
+				"models.File"
+			],
+			[
+				"org",
+				"org.language"
+			],
+			[
+				"Co",
+				"Contains"
+			],
+			[
+				"data",
+				"dataRequest"
+			],
+			[
+				"dele",
+				"deleteFileFromStorage"
+			],
+			[
+				"stat",
+				"statusCode"
+			],
+			[
+				"sta",
+				"statusCode"
+			],
+			[
+				"C",
+				"Code"
+			],
+			[
+				"print",
+				"printTemplate"
+			],
+			[
+				"new",
+				"newParam"
+			],
+			[
+				"switc",
+				"switch"
+			],
+			[
+				"param",
+				"paramType"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"field-",
+				"field-inline"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns"
+			],
+			[
+				"curre",
+				"currentElementIndex"
+			],
+			[
+				"ng-",
+				"ng-controller"
+			],
+			[
+				"fr",
+				"fromEntries"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"end",
+				"groupEnd"
+			],
+			[
+				"root",
+				"$rootScope〔variable〕"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"last",
+				":last-of-type"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"mt-",
+				"mt-3"
+			],
+			[
+				"alig",
+				"align-items-center"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"floa",
+				"float-left"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"appen",
+				"appendChild"
+			],
+			[
+				"file",
+				"fileUrl"
+			],
+			[
+				"div",
+				"/div"
+			],
+			[
+				"n",
+				"networkId"
+			],
+			[
+				"setPa",
+				"setPageSize"
+			],
+			[
+				"TemplDocs",
+				"TemplDocsSelectorBase"
+			],
+			[
+				"pr",
+				"protected"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"app",
+				"app〔function〕"
+			],
+			[
+				"c",
+				"component"
+			],
+			[
+				"docker",
+				"docker-compose.yml"
+			],
+			[
+				"do",
+				"docker-compose"
+			],
+			[
+				"dock",
+				"docker-compose"
+			],
+			[
+				"alpine",
+				"alpine3.4"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"y",
+				"id_rsa.yc.pub"
+			],
+			[
+				"H",
+				"HostName"
+			],
+			[
+				"Ide",
+				"IdentityFile"
+			],
+			[
+				"Htt",
+				"Http\\Request"
+			],
+			[
+				"text-r",
+				"text-right"
+			],
+			[
+				"back",
+				"backgroundImageBar"
+			],
+			[
+				"lo",
+				"logo.png"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"map",
+				"\"sourceMap\""
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"thr",
+				"throw"
+			],
+			[
+				"Th",
+				"Throwable"
+			],
+			[
+				"Feno",
+				"Fenom"
+			],
+			[
+				"err",
+				"error."
+			],
+			[
+				"-moz-box",
+				"-moz-box-flex"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"fire",
+				"firefox_dev"
+			],
+			[
+				"xDe",
+				"xDebug"
+			],
+			[
+				"preventD",
+				"preventDefault();"
+			],
+			[
+				"call_user_func",
+				"call_user_func_array()"
+			],
+			[
+				"file_ge",
+				"file_get_contents()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fuel/app/classes/controller/admin/news.php",
+			"settings":
+			{
+				"buffer_size": 329,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAABABAAAAAAAAEQEAAAAAAAAAAAAAEQEAAAAAAAATAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AQAAABMBAAAAAAAAIwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwEAAAAAAAATAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"session_name\":\"LSP-intelephense\",\"item\":{\"data\":\"8595887951449587\",\"kind\":7,\"insertTextFormat\":1,\"label\":\"Model_Admin_News\",\"sortText\":\"00002\",\"filterText\":\"Model_Admin_News\",\"textEdit\":{\"newText\":\"Model_Admin_News\",\"range\":{\"start\":{\"line\":10,\"character\":2},\"end\":{\"line\":10,\"character\":18}}}}}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							3,
+							8,
+							1
+						],
+						"trigger": "Model_Admin_News"
+					},
+					"AgAAABMBAAAAAAAAEwEAAAAAAAAQAAAATW9kZWxfQWRtaW5fTmV3cxMBAAAAAAAAIwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"session_name\":\"LSP-intelephense\",\"item\":{\"data\":\"8595887951449587\",\"kind\":7,\"insertTextFormat\":1,\"label\":\"Model_Admin_News\",\"sortText\":\"00002\",\"filterText\":\"Model_Admin_News\",\"textEdit\":{\"newText\":\"Model_Admin_News\",\"range\":{\"start\":{\"line\":10,\"character\":2},\"end\":{\"line\":10,\"character\":18}}}}}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							4,
+							9,
+							2
+						],
+						"trigger": "Model_Admin_News"
+					},
+					"AgAAABMBAAAAAAAAEwEAAAAAAAAQAAAATW9kZWxfQWRtaW5fTmV3cxMBAAAAAAAAIwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "ЖЖ"
+					},
+					"AgAAACMBAAAAAAAAJAEAAAAAAAAAAAAAJAEAAAAAAAAlAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					2,
+					"left_delete",
+					null,
+					"AgAAACQBAAAAAAAAJAEAAAAAAAACAAAA0JYjAQAAAAAAACMBAAAAAAAAAgAAANCW",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "::"
+					},
+					"AgAAACMBAAAAAAAAJAEAAAAAAAAAAAAAJAEAAAAAAAAlAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAACYBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAACcBAAAAAAAAKAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"session_name\":\"LSP-intelephense\",\"item\":{\"command\":{\"command\":\"editor.action.triggerParameterHints\",\"title\":\"Trigger Parameter Hints\"},\"data\":\"3416083503517086\",\"kind\":2,\"insertTextFormat\":2,\"detail\":\"find([$id [, ?array $options]])\",\"sortText\":\"find\",\"label\":\"find\",\"textEdit\":{\"newText\":\"find($0)\",\"range\":{\"start\":{\"line\":10,\"character\":20},\"end\":{\"line\":10,\"character\":23}}}}}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							11,
+							20,
+							1
+						],
+						"trigger": "find"
+					},
+					"AgAAACUBAAAAAAAAJQEAAAAAAAADAAAAZmluJQEAAAAAAAArAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAACkBAAAAAAAAKgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAACoBAAAAAAAAKwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgEAAAAAAAAqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAACsBAAAAAAAALAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAACwBAAAAAAAALQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAEAAAAAAAAsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAC8BAAAAAAAAMAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "$"
+					},
+					"AQAAABMBAAAAAAAAFAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwEAAAAAAAATAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAABQBAAAAAAAAFQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAEAAAAAAAAUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAABUBAAAAAAAAFgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQEAAAAAAAAVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "ta"
+					},
+					"AgAAABYBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAYAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgEAAAAAAAAWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAABgBAAAAAAAAGQEAAAAAAAAAAAAAGQEAAAAAAAAaAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABoBAAAAAAAAGwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"cut",
+					null,
+					"AQAAABMBAAAAAAAAEwEAAAAAAAAlAAAAJGRhdGEgPSBNb2RlbF9BZG1pbl9OZXdzOjpmaW5kX2FsbCgpOw",
+					"AQAAAAAAAAABAAAAEwEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAABEBAAAAAAAAEQEAAAAAAAACAAAACQk",
+					"AQAAAAAAAAABAAAAEwEAAAAAAAARAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"left_delete",
+					null,
+					"AQAAABABAAAAAAAAEAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAEQEAAAAAAAARAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"paste",
+					null,
+					"AQAAAJcAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAJwAAAAAAAAAngAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAJ0AAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "o"
+					},
+					"AQAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAKAAAAAAAAAAoQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": "els"
+					},
+					"AwAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAACjAAAAAAAAAKQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert_completion",
+					{
+						"completion": "modal-fullscreen-sm-down",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "modal-fullscreen-sm-down"
+					},
+					"AgAAAJ4AAAAAAAAAngAAAAAAAAAGAAAAbW9kZWxzngAAAAAAAAC2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"left_delete",
+					null,
+					"AQAAALUAAAAAAAAAtQAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert_completion",
+					{
+						"completion": "modal-fullscreen-sm-down",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "modal-fullscreen-sm-down"
+					},
+					"AgAAAJ4AAAAAAAAAngAAAAAAAAAXAAAAbW9kYWwtZnVsbHNjcmVlbi1zbS1kb3eeAAAAAAAAALYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AgAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACiAAAAAAAAAAEAAABh",
+					"AQAAAAAAAAABAAAAoQAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKQAAAAAAAAApAAAAAAAAAASAAAAZnVsbHNjcmVlbi1zbS1kb3du",
+					"AQAAAAAAAAABAAAApAAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKMAAAAAAAAAowAAAAAAAAABAAAALQ",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert_completion",
+					{
+						"completion": "modal-fullscreen-sm-down",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "modal-fullscreen-sm-down"
+					},
+					"AgAAAJ4AAAAAAAAAngAAAAAAAAAGAAAAbW9kZWxzngAAAAAAAAC2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKIAAAAAAAAAogAAAAAAAAAUAAAAbC1mdWxsc2NyZWVuLXNtLWRvd24",
+					"AQAAAAAAAAABAAAAogAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKEAAAAAAAAAoQAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"right_delete",
+					null,
+					"AQAAAKEAAAAAAAAAoQAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ0AAAAAAAAAnQAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAKAAAAAAAAAAoQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAKIAAAAAAAAAowAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					141,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAAJ0AAAAAAAAAngAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "fuel_test.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ng",
+				"Set Syntax: nginx"
+			],
+			[
+				"ya",
+				"ayu: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Docker",
+				"Preferences: LSP-dockerfile Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"VUE",
+				"VUEFormatter: Set Formatter Preferences"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"dev",
+				"DevDocs: Search From Input"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"file ic",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"vue",
+				"VUEFormatter"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"syn",
+				"Sync Settings: Download"
+			],
+			[
+				"lsp togg",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"Sync",
+				"Sync Settings: Show Logs"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile Plus"
+			],
+			[
+				"packal",
+				"Package Control: List Packages"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"gitgutt",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"gitst",
+				"GitStatus: Changed files"
+			],
+			[
+				"trim",
+				"Trim Trailing White Space"
+			],
+			[
+				"tar",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"phpa",
+				"Phpactor: Rename Variable"
+			],
+			[
+				"debu",
+				"Debugger: Start"
+			],
+			[
+				"compa",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"csslint",
+				"Preferences: SublimeLinter Key Bindings"
+			],
+			[
+				"de",
+				"Debugger: Install Adapters"
+			],
+			[
+				"deb",
+				"Debugger: Open"
+			],
+			[
+				"term",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Utils Settings"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"tr",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ay",
+				"ayu: Activate theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 351.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/hdd/test-fuel",
+		"/mnt/hdd/test-fuel/fuel",
+		"/mnt/hdd/test-fuel/fuel/app",
+		"/mnt/hdd/test-fuel/fuel/app/classes",
+		"/mnt/hdd/test-fuel/fuel/app/classes/controller",
+		"/mnt/hdd/test-fuel/fuel/app/classes/controller/admin",
+		"/mnt/hdd/test-fuel/fuel/app/classes/model",
+		"/mnt/hdd/test-fuel/fuel/app/classes/model/admin",
+		"/mnt/hdd/test-fuel/fuel/app/config",
+		"/mnt/hdd/test-fuel/fuel/app/config/development",
+		"/mnt/hdd/test-fuel/fuel/app/migrations",
+		"/mnt/hdd/test-fuel/fuel/app/views",
+		"/mnt/hdd/test-fuel/fuel/app/views/index",
+		"/mnt/hdd/test-fuel/fuel/core",
+		"/mnt/hdd/test-fuel/fuel/core/classes",
+		"/mnt/hdd/test-fuel/fuel/core/classes/database",
+		"/mnt/hdd/test-fuel/fuel/core/classes/database/pdo",
+		"/mnt/hdd/test-fuel/fuel/packages",
+		"/mnt/hdd/test-fuel/fuel/packages/auth",
+		"/mnt/hdd/test-fuel/fuel/packages/auth/migrations"
+	],
+	"file_history":
+	[
+		"/mnt/hdd/test-fuel/fuel/app/views/index/index.php",
+		"/mnt/hdd/test-fuel/fuel/app/migrations/02_add_data_admin_news.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/development/migrations.php",
+		"/mnt/hdd/test-fuel/fuel/app/migrations/01_create_database.php",
+		"/mnt/hdd/test-fuel/fuel/core/classes/database/pdo/connection.php",
+		"/mnt/hdd/test-fuel/fuel/app/migrations/002_add_data_admin_news.php",
+		"/mnt/hdd/test-fuel/fuel/app/migrations/003_add_data_admin_news_2.php",
+		"/mnt/hdd/test-fuel/fuel/app/classes/controller/index.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/routes.php",
+		"/mnt/hdd/test-fuel/fuel/app/migrations/001_create_database_fuel_dev.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/db.php",
+		"/mnt/hdd/test-fuel/fuel/app/migrations/001_create_database_to_dev.php",
+		"/mnt/hdd/test-fuel/fuel/core/classes/route.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/development/db.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/production/db.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/staging/db.php",
+		"/mnt/hdd/test-fuel/fuel/app/config/test/db.php",
+		"/mnt/hdd/test-fuel/fuel/app/views/welcome/404.php",
+		"/mnt/hdd/test-foil/composer.json",
+		"/home/stas/Загрузки/Telegram Desktop/Тест для разработчика_fs.txt",
+		"/var/www/arnica.local/www/protected/controllers/admin/EmployeeInfoController.php",
+		"/var/www/arnica.local/www/protected/components/ModelGridAngular.php",
+		"/var/www/arnica.local/www/protected/views/layouts/main2.php",
+		"/var/www/arnica.local/www/protected/views/admin/printTemplate/PrintTemplateSearch.php",
+		"/var/www/arnica.local/www/css/print-template/base.css",
+		"/var/www/arnica.local/www/protected/controllers/admin/ClientInfoController.php",
+		"/var/www/arnica.local/www/protected/extensions/CJuiDatePicker2.php",
+		"/var/www/arnica.local/www/mobileApp/js/api/ang.directives.js",
+		"/var/www/arnica.local/www/html/modals/print-template/filling.html",
+		"/var/www/arnica.local/www/html/modals/print-template/template.html",
+		"/var/www/arnica.local/www/js/ang.controllers.js",
+		"/var/www/arnica.local/www/protected/controllers/admin/PrintTemplateController.php",
+		"/var/www/arnica.local/www/protected/components/TemplDocComponent.php",
+		"/var/www/arnica.local/www/js/caseHistory/ang.case-history.js",
+		"/var/www/arnica.local/www/js/caseHistory/ang.case-history-visit.js",
+		"/var/www/arnica.local/www/js/services/ang.template-doc.service.js",
+		"/var/www/arnica.local/www/js/ang.directives.js",
+		"/var/www/arnica.local/www/protected/models/printTemplate/Template.php",
+		"/var/www/arnica.local/www/booking/js/directives/ang.nearest-record-any-master.js",
+		"/var/www/arnica.local/www/css/zr/client-info-case-history.css",
+		"/var/www/arnica.local/www/protected/config/main.php",
+		"/var/www/arnica.local/www/protected/views/layouts/scripts.php",
+		"/var/www/arnica.local/www/booking/js/lib/moment.min.js",
+		"/var/www/arnica.local/www/booking/js/directives/ang.nearest-record.js",
+		"/var/www/arnica.local/www/js/init.js",
+		"/var/www/arnica.local/www/mobileApp/js/api/ang.controllers.js",
+		"/var/www/arnica.local/www/js/compiled/js/ui.js",
+		"/var/www/arnica.local/www/mobileApp/js/lib/unused/ang.controllers.js",
+		"/var/www/arnica.local/developers-docker-v2/php/mount-files/xdebug_personal.ini",
+		"/var/www/arnica.local/developers-docker-v2/php/mount-files/xdebug.ini",
+		"/var/www/arnica.local/www/js/ang.services.js",
+		"/var/www/arnica.local/www/js/directives/ang.popup-loading-overlay.js",
+		"/var/www/arnica.local/www/js/treatmentPlan/ang.treatment-plan-form.controller.js",
+		"/var/www/arnica.local/www/html/directives-template/list-box/template.html",
+		"/var/www/arnica.local/www/css/directives/list-box/list.css",
+		"/var/www/arnica.local/www/js/caseHistory/ang.journal-visit.js",
+		"/var/www/arnica.local/www/js/visit/ang.form.js",
+		"/var/www/arnica.local/www/protected/views/admin/visit/VisitForm.php",
+		"/var/www/arnica.local/www/protected/views/admin/clientInfo/CaseHistory.php",
+		"/var/www/arnica.local/www/js/ang.client-info-controller.js",
+		"/var/www/arnica.local/www/protected/views/layouts/sections/main2/styles.php",
+		"/var/www/arnica.local/www/mobileApp/js/api/ang.services.js",
+		"/var/www/arnica.local/www/js/spec/caseHistory/ang.journal-visit.js",
+		"/var/www/arnica.local/www/js/services/ang.interface-events.service.js",
+		"/var/www/arnica.local/www/js/spec/caseHistory/ang.case-history.js",
+		"/var/www/arnica.local/www/html/modals/print-template/select.html",
+		"/var/www/arnica.local/www/protected/models/visit/TreatmentPlanPeer.php",
+		"/var/www/arnica.local/www/protected/views/admin/clientInfo/visit/Journal.php",
+		"/var/www/arnica.local/www/js/ang.print-variable-modal.controller.js",
+		"/home/stas/Загрузки/data.txt",
+		"/home/stas/Загрузки/базовые_переменные_new.xlsx",
+		"/var/www/arnica.local/www/protected/views/admin/clientInfo/medical/ClientMedicalCard.php",
+		"/var/www/arnica.local/www/protected/models/salon/ClientInfoPeer.php",
+		"/var/www/arnica.local/www/index.php",
+		"/var/www/arnica.local/www/protected/controllers/admin/reports/InsuranceCompanyReportController.php",
+		"/var/www/arnica.local/www/js/ang.client-medical-card-controller.js",
+		"/var/www/arnica.local/www/js/directives/ang.print-template-modal.action.js",
+		"/var/www/arnica.local/www/protected/models/visit/VisitPeer.php",
+		"/var/www/arnica.local/www/protected/models/visit/om/BaseVisitItem.php",
+		"/var/www/arnica.local/www/protected/models/report/om/BaseInsuranceCompanyReportPeer.php",
+		"/var/www/arnica.local/www/protected/views/print/forms/zr/Akt.php",
+		"/var/www/arnica.local/www/protected/models/report/InsuranceCompanyReportSelector.php",
+		"/var/www/arnica.local/www/protected/models/visit/Visit.php",
+		"/var/www/arnica.local/www/css/print-template/select.css",
+		"/var/www/arnica.local/www/css/print-template/filling.css",
+		"/var/www/arnica.local/www/protected/controllers/admin/TreatmentPlanController.php",
+		"/var/www/arnica.local/www/protected/models/journal/JournalItem.php",
+		"/var/www/arnica.local/www/protected/models/journal/JournalPeer.php",
+		"/var/www/arnica.local/www/protected/models/journal/Journal.php",
+		"/var/www/arnica.local/www/protected/models/journal/om/BaseJournalPeer.php",
+		"/var/www/arnica.local/www/js/ang.print-template-modal.controller.js",
+		"/var/www/arnica.local/www/protected/controllers/admin/TemplateDocHistoryController.php",
+		"/var/www/arnica.local/www/protected/extensions/TemplateSelectorBase.php",
+		"/var/www/arnica.local/www/protected/components/restApi/AbstractRestApiComponent.php",
+		"/var/www/arnica.local/www/protected/views/admin/printVariable/PrintVariableSearch.php",
+		"/var/www/arnica.local/www/protected/models/salon/TemplateDocHistory.php",
+		"/var/www/arnica.local/developers-docker-v2/php/default-files/xdebug_template.ini",
+		"/var/www/arnica.local/www/js/directives/ang.trumbowyg-text-field.js",
+		"/var/www/arnica.local/www/js/directives/ang.salary-params-tree.js",
+		"/var/www/arnica.local/www/js/ang.print-template.controller.js",
+		"/var/www/arnica.local/_core/simpletest/http.php",
+		"/var/www/arnica.local/www/protected/views/admin/clientInfo/caseHistoryJournal.php",
+		"/home/stas/.ssh/config",
+		"/var/www/arnica.local/www/protected/extensions/PrintTemplateSelector.php",
+		"/home/stas/.ssh/Arnica/id_rsa.gitlab.pub",
+		"/home/stas/.ssh/OMNI/new.pub",
+		"/home/stas/.ssh/OMNI/fomalgaut.pub",
+		"/home/stas/.ssh/OMNI/id_rsa.netangels.pub",
+		"/home/stas/.ssh/OMNI/id_rsa.netangels.sedovsg",
+		"/home/stas/.ssh/OMNI/id_rsa.netangels.sedovsg.pub",
+		"/home/stas/.ssh/OMNI/sedovsg.famalgaut",
+		"/home/stas/.ssh/OMNI/sedovsg.famalgaut.pub",
+		"/var/www/arnica.local/localcfg.php",
+		"/var/www/arnica.local/arnica.sublime-project",
+		"/run/user/1000/gvfs/mtp:host=Sony_Xperia_XA2_Plus_-_Dual_SIM_CQ3001DZPT/Mass storage/Downloads/testing.md",
+		"/run/user/1000/gvfs/mtp:host=Sony_Xperia_XA2_Plus_-_Dual_SIM_CQ3001DZPT/Mass storage/Downloads/todo-1.json",
+		"/run/user/1000/gvfs/mtp:host=Sony_Xperia_XA2_Plus_-_Dual_SIM_CQ3001DZPT/Mass storage/Pictures/Camera/20220828_220452.jpg.AGVJR1",
+		"/run/user/1000/gvfs/mtp:host=Sony_Xperia_XA2_Plus_-_Dual_SIM_CQ3001DZPT/Card/Download/151",
+		"/mnt/hdd/docker/suffragia.api/.env",
+		"/mnt/hdd/docker/suffragia.api/docker-compose.override.yml",
+		"/mnt/hdd/docker/suffragia.api/docker-compose.prod.yml",
+		"/mnt/hdd/docker/suffragia.api/docker-compose.stage.yml",
+		"/mnt/hdd/docker/suffragia.api/app/api/swagger.go",
+		"/mnt/hdd/docker/suffragia.api/app/internal/app/routes/routes_test.go",
+		"/mnt/hdd/docker/suffragia.api/app/pkg/utils/helpers.go",
+		"/mnt/hdd/docker/suffragia.api/app/internal/app/services/v1/address.go",
+		"/mnt/hdd/docker/suffragia.api/app/internal/app/routes/routes.go",
+		"/mnt/hdd/docker/suffragia.api/app/internal/app/controllers/v1/info.go"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"migration",
+			"sqli"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fuel/app/classes/controller/admin/news.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "$>:\\/*.<",
+									"selector": "punctuation.accessor | punctuation.definition.variable | punctuation.separator.namespace | punctuation.definition.tag.begin",
+									"server": "LSP-intelephense"
+								},
+								{
+									"characters": ".:<\"=/",
+									"selector": "meta.tag, comment - string.unquoted.heredoc",
+									"server": "LSP-html"
+								}
+							],
+							"color_helper.box_height": 21,
+							"color_helper.color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1666252856.01,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"function_name_status_row": 14,
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 4,
+							"lsp_uri": "file:///mnt/hdd/test-fuel/fuel/app/classes/controller/admin/news.php",
+							"show_definitions": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fuel_test.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 2,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"apply_syntax_touched": true,
+							"auto_complete_triggers":
+							[
+								{
+									"selector": "meta.mapping.key punctuation.definition.string.begin - meta.setting-value.sublime-settings meta.mapping.value"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"function_name_status_row": 0,
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///mnt/hdd/test-fuel/fuel_test.sublime-project",
+							"show_definitions": false,
+							"syntax": "Packages/PackageDev/Package/Sublime Text Project/Sublime Text Project.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 373.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 302.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 228.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Protocol":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 228.0
+	},
+	"output.Terminus":
+	{
+		"height": 429.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 228.0
+	},
+	"output.Terminus panel":
+	{
+		"height": 361.0
+	},
+	"output.diagnostics":
+	{
+		"height": 234.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 228.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 246.0
+	},
+	"output.references":
+	{
+		"height": 228.0
+	},
+	"pinned_build_system": "",
+	"project": "fuel_test.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"database/pdo/connection.php",
+				"fuel/core/classes/database/pdo/connection.php"
+			],
+			[
+				"_afterTableBlock",
+				"www/protected/views/admin/signableDoc/_afterTableBlock.php"
+			],
+			[
+				"inventory2con trol",
+				"www/protected/controllers/admin/Inventory2Controller.php"
+			],
+			[
+				"visitcontroller",
+				"www/protected/controllers/admin/VisitController.php"
+			],
+			[
+				"simpleadmincontroll",
+				"www/protected/extensions/SimpleAdminController.php"
+			],
+			[
+				"ModelGrid",
+				"www/protected/components/views/ModelGridAngular.php"
+			],
+			[
+				"modelGri",
+				"www/protected/components/ModelGridAngular.php"
+			],
+			[
+				"SeaAn",
+				"www/protected/views/common/searchAngular.php"
+			],
+			[
+				"main2",
+				"www/protected/views/layouts/main2.php"
+			],
+			[
+				"Print",
+				"www/protected/extensions/PrintTemplateSelector.php"
+			],
+			[
+				"PrintTC",
+				"www/protected/controllers/admin/PrintTemplateController.php"
+			],
+			[
+				"PrintT",
+				"www/protected/extensions/PrintTemplateSelector.php"
+			],
+			[
+				"PrintTem",
+				"www/protected/controllers/admin/PrintTemplateController.php"
+			],
+			[
+				"ClientInfoConrol",
+				"www/protected/controllers/admin/ClientInfoController.php"
+			],
+			[
+				"base",
+				"www/css/print-template/base.css"
+			],
+			[
+				"ang.dire",
+				"www/js/ang.directives.js"
+			],
+			[
+				"template.h",
+				"www/html/modals/print-template/template.html"
+			],
+			[
+				"ang.templadoc",
+				"www/js/services/ang.template-doc.service.js"
+			],
+			[
+				"css/zr/client-info-case-history.css",
+				"www/css/zr/client-info-case-history.css"
+			],
+			[
+				"/js/lib/moment.min.js",
+				"www/booking/js/lib/moment.min.js"
+			],
+			[
+				"main",
+				"www/protected/config/main.php"
+			],
+			[
+				"scripts",
+				"www/protected/views/layouts/scripts.php"
+			],
+			[
+				"moment",
+				"www/booking/js/lib/moment.min.js"
+			],
+			[
+				"PrintTemplate",
+				"www/protected/models/printTemplate/Template.php"
+			],
+			[
+				"ang.popup-loading-overlay.js",
+				"www/js/directives/ang.popup-loading-overlay.js"
+			],
+			[
+				"directives/ang.popup-loading-overlay.js",
+				"www/js/directives/ang.popup-loading-overlay.js"
+			],
+			[
+				"styles.php",
+				"www/protected/views/layouts/sections/main2/styles.php"
+			],
+			[
+				"list-box/template.html",
+				"www/html/directives-template/list-box/template.html"
+			],
+			[
+				"fill",
+				"www/html/modals/print-template/filling.html"
+			],
+			[
+				"filling.ht",
+				"www/html/modals/print-template/filling.html"
+			],
+			[
+				"ang.print-tem",
+				"www/js/ang.print-template.controller.js"
+			],
+			[
+				"PrintTeC",
+				"www/protected/controllers/admin/PrintTemplateController.php"
+			],
+			[
+				"ang.print-va",
+				"www/js/ang.print-variable-modal.controller.js"
+			],
+			[
+				"ang.print-tema",
+				"www/js/ang.print-template-modal.controller.js"
+			],
+			[
+				"PrintTemSe",
+				"www/protected/views/admin/printTemplate/PrintTemplateSearch.php"
+			],
+			[
+				"print-templaa",
+				"www/js/directives/ang.print-template-modal.action.js"
+			],
+			[
+				"index",
+				"www/index.php"
+			],
+			[
+				"print-ac",
+				"www/js/directives/ang.print-template-modal.action.js"
+			],
+			[
+				"template-m",
+				"www/js/ang.template-modal.controller.js"
+			],
+			[
+				"filling",
+				"www/css/print-template/filling.css"
+			],
+			[
+				"select",
+				"www/css/print-template/select.css"
+			],
+			[
+				"TreatmentPlanC",
+				"www/protected/controllers/admin/TreatmentPlanController.php"
+			],
+			[
+				"CliePe",
+				"www/protected/models/salon/ClientInfoPeer.php"
+			],
+			[
+				"jourP",
+				"www/protected/models/journal/JournalPeer.php"
+			],
+			[
+				"VisitPe",
+				"www/protected/models/visit/VisitPeer.php"
+			],
+			[
+				"PrintVarSea",
+				"www/protected/views/admin/printVariable/PrintVariableSearch.php"
+			],
+			[
+				"PrintTeSe",
+				"www/protected/views/admin/printTemplate/PrintTemplateSearch.php"
+			],
+			[
+				"print-template.ac",
+				"www/js/directives/ang.print-template-modal.action.js"
+			],
+			[
+				"PrintTemC",
+				"www/protected/controllers/admin/PrintTemplateController.php"
+			],
+			[
+				"TemDocH",
+				"www/protected/models/salon/TemplateDocHistory.php"
+			],
+			[
+				"TemplaDC",
+				"www/protected/controllers/admin/TemplateDocHistoryController.php"
+			],
+			[
+				"TemplateDoc",
+				"www/protected/models/salon/TemplateDocHistory.php"
+			],
+			[
+				"print-te",
+				"www/js/ang.print-template-modal.controller.js"
+			],
+			[
+				"ang.print-te",
+				"www/js/ang.print-template-modal.controller.js"
+			],
+			[
+				"ang.template-ma",
+				"www/js/ang.template-modal.controller.js"
+			],
+			[
+				"ang.print",
+				"www/js/ang.print-template.controller.js"
+			],
+			[
+				"list-",
+				"www/js/directives/ang.list-box.js"
+			],
+			[
+				"list-b",
+				"www/js/directives/ang.list-box.js"
+			],
+			[
+				"ang.print-var",
+				"www/js/ang.print-variable-modal.controller.js"
+			],
+			[
+				"loc",
+				"localcfg.php"
+			],
+			[
+				"ang.print-",
+				"www/js/ang.print-template-modal.controller.js"
+			],
+			[
+				"directives-template/calendar.html",
+				"www/assets/directives-template/calendar.html"
+			],
+			[
+				"PrintTempC",
+				"www/protected/controllers/admin/PrintTemplateController.php"
+			],
+			[
+				"ang.loa",
+				"www/booking/js/directives/ang.loadbar.js"
+			],
+			[
+				"ang.client",
+				"www/booking/js/services/ang.client-info.service.js"
+			],
+			[
+				"ang.template.co",
+				"www/js/ang.template-modal.controller.js"
+			],
+			[
+				"ang.filter",
+				"www/js/ang.filters.js"
+			],
+			[
+				"ang.fi",
+				"www/js/spec/ang.filters.js"
+			],
+			[
+				"VareSele",
+				"www/protected/extensions/VariableSelectorBase.php"
+			],
+			[
+				"TemplateSea",
+				"www/protected/models/forms/PrintTemplateSearch.php"
+			],
+			[
+				"ang.templa",
+				"www/js/ang.print-template.controller.js"
+			],
+			[
+				"ang.print-vari",
+				"www/js/ang.print-variable.controller.js"
+			],
+			[
+				"incub",
+				"www/protected/extensions/IncubApp.php"
+			],
+			[
+				"TemplateSelectorBase",
+				"www/protected/extensions/TemplateSelectorBase.php"
+			],
+			[
+				"VariSe",
+				"www/protected/extensions/VariableSelectorBase.php"
+			],
+			[
+				"ang.filter-",
+				"www/js/directives/ang.filter-list.js"
+			],
+			[
+				"scri",
+				"www/protected/views/layouts/scripts.php"
+			],
+			[
+				"Templat",
+				"www/protected/models/printTemplate/Template.php"
+			],
+			[
+				"",
+				"localcfg.php"
+			],
+			[
+				"local",
+				"localcfg.php"
+			],
+			[
+				"loca",
+				"localcfg.php"
+			],
+			[
+				"Fea",
+				"www/protected/functional/features/bootstrap/FeatureContext.php"
+			],
+			[
+				"ang.print-templ",
+				"www/js/ang.print-template.controller.js"
+			],
+			[
+				"Varia",
+				"www/protected/models/printTemplate/Variable.php"
+			],
+			[
+				"PrintVar",
+				"www/protected/controllers/admin/PrintVariableController.php"
+			],
+			[
+				"conte",
+				"www/html/modals/print-template/content.html"
+			],
+			[
+				"Vari",
+				"www/protected/models/printTemplate/Variable.php"
+			],
+			[
+				"PrintVa",
+				"www/protected/controllers/admin/PrintVariableController.php"
+			],
+			[
+				"varia",
+				"www/html/modals/print-template/variable.html"
+			],
+			[
+				"VisitPeer.php",
+				"www/protected/models/visit/VisitPeer.php"
+			],
+			[
+				"runtime/",
+				"_core/propel/runtime/pear/build-pear-package.xml"
+			],
+			[
+				"directives-template/tabs-buttons.html",
+				"www/html/directives-template/tabs-buttons.html"
+			],
+			[
+				"directives-template/list-box/template.html",
+				"www/html/directives-template/list-box/template.html"
+			],
+			[
+				"ang.list",
+				"www/js/directives/ang.list-box.js"
+			],
+			[
+				"script",
+				"www/protected/views/layouts/scripts.php"
+			],
+			[
+				"salon-model-editor",
+				"www/js/directives/salon-model-editor.js"
+			],
+			[
+				"ar-scripts-unmute",
+				"www/__tools/developer-scripts/ar-scripts-unmute"
+			],
+			[
+				"scriptCompiler.php",
+				"www/__tools/scriptCompiler.php"
+			],
+			[
+				"ar-scr",
+				"www/__tools/developer-scripts/ar-scripts-compile"
+			],
+			[
+				"printTemplate4",
+				"www/protected/functional/features/printTemplate4.feature"
+			],
+			[
+				"Feature",
+				"www/protected/functional/features/bootstrap/FeatureContext.php"
+			],
+			[
+				"ar-scripts-compile",
+				"www/__tools/developer-scripts/ar-scripts-compile"
+			],
+			[
+				"Templa",
+				"www/protected/models/printTemplate/Template.php"
+			],
+			[
+				"ang.lis",
+				"www/js/directives/ang.list-box.js"
+			],
+			[
+				"ang.list-",
+				"www/js/directives/ang.list-box.js"
+			],
+			[
+				"Var",
+				"www/protected/models/printTemplate/Variable.php"
+			],
+			[
+				"Template.ph",
+				"www/protected/models/printTemplate/Template.php"
+			],
+			[
+				"ang.moda",
+				"www/js/ang.modal.js"
+			],
+			[
+				"main.php",
+				"www/protected/config/main.php"
+			],
+			[
+				"print-template-modal",
+				"www/js/directives/ang.print-template-modal.action.js"
+			],
+			[
+				"print-template/content.html",
+				"www/html/modals/print-template/content.html"
+			],
+			[
+				"Template",
+				"www/protected/models/printTemplate/Template.php"
+			],
+			[
+				"content",
+				"www/html/modals/print-template/content.html"
+			],
+			[
+				"VariaSe",
+				"www/protected/extensions/VariableSelectorBase.php"
+			],
+			[
+				"ang.printm",
+				"www/js/ang.print-template-modal.controller.js"
+			],
+			[
+				"templDocComponent",
+				"www/protected/components/TemplDocComponent.php"
+			],
+			[
+				"images/print-templates/",
+				"www/images/print-templates/bin.svg"
+			],
+			[
+				"PrintVarCo",
+				"www/protected/controllers/admin/PrintVariableController.php"
+			],
+			[
+				"PrintTemplateSe",
+				"www/protected/extensions/PrintTemplateSelector.php"
+			],
+			[
+				"PrintVaria",
+				"www/protected/extensions/PrintVariableSelector.php"
+			],
+			[
+				"TemplateSele",
+				"www/protected/extensions/TemplatesSelectorBase.php"
+			],
+			[
+				"PrintTemplateS",
+				"www/protected/extensions/PrintTemplateSelector.php"
+			],
+			[
+				"PrintTe",
+				"www/protected/extensions/PrintTemplateSelector.php"
+			],
+			[
+				"Incub",
+				"www/protected/extensions/IncubApp.php"
+			],
+			[
+				"html/directives-template/list-box/template.html",
+				"www/html/directives-template/list-box/template.html"
+			],
+			[
+				"ang.list-bo",
+				"www/js/directives/ang.list-box.js"
+			],
+			[
+				"TemplDoc",
+				"www/protected/components/TemplDocComponent.php"
+			],
+			[
+				"ang.prin",
+				"www/js/ang.print-template.controller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/hdd/app/node/suffragia/suffragia.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 327.0,
+		"last_filter": "Kern",
+		"selected_items":
+		[
+			[
+				"Kern",
+				"Kernel"
+			],
+			[
+				"",
+				"c"
+			]
+		],
+		"width": 580.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 423.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
